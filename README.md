@@ -1,4 +1,4 @@
-This is the Gitbhub Directory for the Machine Learning in applied settings course by Philipp F. Kati G. Iva Y. and Kushale F.
+This is the Gitbhub Directory for the Machine Learning in applied settings course by Philipp F., Kati G., Iva Y. and Kushale F.
 
 In the data folder you find the final files that have been used for training, validation and testing the models
 
